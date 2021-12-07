@@ -1,0 +1,377 @@
+No,Umur,Aktivitas/Domisili,Rencana_Pembelian,Luas_Tanah,Luas_Bangunan,Jumlah_Lantai,Budget_Rumah,Metode_Pembayaran,Nama_Cluster
+1,44,Jkt,Investasi,150,76,2,797844737.3,Cash Bertahap,Kedaton Terrace
+2,38,Smg Barat,Investasi,120,47,1,555665789.5,KPR_Konfensional,Kedaton Terrace
+3,34,Smg Tengah,Tinggal,150,47,1,631455263.2,KPR_Konfensional,Kedaton Terrace
+4,34,Smg Barat,Investasi,180,130,2,1130234211,Cash Bertahap,Kedaton Terrace
+5,50,Jkt,Investasi,148,47,1,626402631.6,KPR_Konfensional,Kedaton Terrace
+6,40,Smg Barat,Investasi,120,47,1,555665789.3,Cash Bertahap,Kedaton Terrace
+7,44,Smg Barat,Investasi,150,47,1,631455263.5,KPR_Konfensional,Kedaton Terrace
+8,50,Smg Barat,Investasi,360,260,2,2429602633,Cash Bertahap,Kedaton Terrace
+9,58,Jkt,Investasi,283,76,2,1140644737,Cash Bertahap,Kedaton Terrace
+10,43,Smg Barat,Investasi,120,47,1,555665789.3,KPR_Konfensional,Kedaton Terrace
+11,56,Smg Selatan,Investasi,163,76,2,832328947.4,KPR_Konfensional,Kedaton Terrace
+12,69,Kendal,Investasi,120,76,2,703107895.7,Cash Bertahap,Kedaton Terrace
+13,38,Smg Tengah,Tinggal,163,47,1,664297368.4,KPR_Konfensional,Kedaton Terrace
+14,25,Jkt,Investasi,120,47,1,555665789.5,KPR_Konfensional,Kedaton Terrace
+15,35,Smg Tengah,Tinggal,163,47,1,664297368.2,Cash Bertahap,Kedaton Terrace
+16,42,Smg Tengah,Tinggal,120,47,1,555665789.5,KPR_Konfensional,Kedaton Terrace
+17,46,Smg Selatan,Investasi,151,47,1,633981579,Cash Bertahap,Kedaton Terrace
+18,50,Smg Selatan,Investasi,265,130,2,1587000000,Cash Bertahap,Kedaton Terrace
+19,50,Smg Selatan,Investasi,180,130,2,1258000001,Cash Bertahap,Kedaton Terrace
+20,37,Kudus,Tinggal,120,76,2,772063683.7,KPR_Konfensional,Kedaton Terrace
+21,52,Smg Selatan,Investasi,120,47,1,609877368.1,Cash Bertahap,Kedaton Terrace
+22,44,Smg Tengah,Tinggal,180,130,2,1297175000,Cash Bertahap,Kedaton Terrace
+23,41,Kendal,Investasi,197,123,2,1300000000,KPR_Konfensional,Kedaton Terrace
+24,45,Jkt,Investasi,120,76,2,788737368.4,Cash Bertahap,Kedaton Terrace
+25,38,Kendal,Investasi,240,252,2,2275448212,Cash Bertahap,Kedaton Terrace
+26,48,Smg Selatan,Tinggal,151,47,1,706767453.4,KPR_Konfensional,Kedaton Terrace
+27,40,Pati,Investasi,120,76,2,788737368.4,Cash Bertahap,Kedaton Terrace
+28,56,Smg Barat,Tinggal,194,136,2,1390749932,KPR_Konfensional,Kedaton Terrace
+29,34,Smg Barat,Investasi,191,123,2,1355698026,Cash Bertahap,Kedaton Terrace
+30,42,Smg Barat,Tinggal,120,47,1,618141578.6,KPR_Konfensional,Kedaton Terrace
+31,27,Yogyakarta,Investasi,120,76,2,777955066.2,Cash Keras,Kedaton Terrace
+32,36,Smg Barat,Investasi,148,47,1,711154211,KPR_Konfensional,Kedaton Terrace
+33,28,Papua,Tinggal,120,76,2,795000000.5,Cash Bertahap,Kedaton Terrace
+34,47,Pontianak,Tinggal,263,200,2,2288888888,Cash Bertahap,Kedaton Terrace
+35,54,Smg Selatan,Tinggal,120,47,1,615000000.3,Cash Bertahap,Kedaton Terrace
+36,41,Smg Selatan,Tinggal,120,47,1,618141579,KPR_Konfensional,Kedaton Terrace
+37,29,Smg Timur,Investasi,120,76,2,798592104.9,KPR_Konfensional,Kedaton Terrace
+38,37,Kendal,Investasi,120,76,2,798592104.9,KPR_Konfensional,Kedaton Terrace
+39,35,Smg Selatan,Investasi,120,76,2,798000000.1,Cash Bertahap,Kedaton Terrace
+40,40,Smg Selatan,Investasi,120,76,2,798592105.1,Cash Bertahap,Kedaton Terrace
+41,36,Smg Barat,Investasi,120,47,1,603141579.1,Cash Bertahap,Kedaton Terrace
+42,28,Smg Selatan,Tinggal,148,47,1,686263813.2,Cash Keras,Kedaton Terrace
+43,49,Smg Selatan,Investasi,120,47,1,618141579.2,Cash Bertahap,Kedaton Terrace
+44,30,Jkt,Investasi,120,47,1,618141578.6,KPR_Konfensional,Kedaton Terrace
+45,35,Kudus,Investasi,180,130,2,1350410527,Cash Bertahap,Kedaton Terrace
+46,41,Magelang,Investasi,120,47,1,599597331.7,Cash Keras,Kedaton Terrace
+47,44,Smg Barat,Investasi,263,0,1,609052631.6,Cash Bertahap,Kedaton Terrace
+48,47,Smg Barat,Investasi,263,0,1,609052631.6,Cash Bertahap,Kedaton Terrace
+49,46,Smg Barat,Investasi,275,0,1,652763157.9,Cash Keras,Kedaton Terrace
+50,38,Luar Negeri,Investasi,150,76,2,907625439,Cash Bertahap,Kedaton Terrace
+51,39,Smg Selatan,Tinggal,120,76,2,825664947.5,Cash Keras,Kedaton Terrace
+52,31,Smg Utara,Investasi,120,47,1,618141579.5,KPR_Konfensional,Kedaton Terrace
+53,31,Smg Barat,Tinggal,120,76,2,839664947.4,KPR_Konfensional,Kedaton Terrace
+54,52,Bogor,Investasi,180,130,2,1416694737,Cash Bertahap,Kedaton Terrace
+55,56,Sumatera,Investasi,120,76,2,839664947.6,Cash Bertahap,Kedaton Terrace
+56,26,Smg Timur,Investasi,120,47,1,651939895.2,KPR_Konfensional,Kedaton Terrace
+57,32,Kendal,Tinggal,120,47,1,651939895.2,KPR_Konfensional,Kedaton Terrace
+58,35,Smg Barat,Tinggal,120,82,2,845368421,KPR_Konfensional,Kedaton Terrace
+59,37,Smg Timur,Investasi,120,76,2,814474999.2,Cash Keras,Kedaton Terrace
+60,51,Smg Barat,Tinggal,120,76,2,814474999.2,Cash Keras,Kedaton Terrace
+61,50,Smg Selatan,Investasi,120,47,1,651939894.7,KPR_Konfensional,Kedaton Terrace
+62,32,Smg Barat,Tinggal,120,47,1,651939894.7,KPR_Konfensional,Kedaton Terrace
+63,34,Smg Tengah,Investasi,230,0,1,813846153,KPR_Konfensional,Kedaton Terrace
+64,37,Smg Tengah,Investasi,120,47,1,664000783.8,KPR_Konfensional,Kedaton Terrace
+65,34,Smg Barat,Investasi,120,47,1,664000783,Cash Bertahap,Kedaton Terrace
+66,42,Smg Barat,Investasi,148,0,1,333948718,Cash Bertahap,Kedaton Terrace
+67,42,Smg Barat,Investasi,120,0,1,270769230.8,Cash Bertahap,Kedaton Terrace
+68,43,Smg Barat,Tinggal,120,73,2,766918421.4,Cash Bertahap,Kedaton Terrace
+69,38,Smg Barat,Investasi,120,82,2,845368421.2,KPR_Konfensional,Kedaton Terrace
+70,47,Jkt,Investasi,120,82,2,820007369.4,Cash Keras,Kedaton Terrace
+71,29,Smg Barat,Investasi,120,47,1,684536890.4,Cash Bertahap,Kedaton Terrace
+72,45,Surabaya,Investasi,120,47,1,670846152.3,KPR_Konfensional,Kedaton Terrace
+73,25,Smg Barat,Tinggal,120,82,2,845368421.3,Cash Bertahap,Kedaton Terrace
+74,38,Mranggen,Investasi,120,82,2,845368421.3,Cash Bertahap,Kedaton Terrace
+75,46,Jkt,Investasi,237,0,1,548138461.5,Cash Bertahap,Kedaton Terrace
+76,58,Smg Tengah,Tinggal,120,73,2,766918421,KPR_Konfensional,Kedaton Terrace
+77,48,Pekalongan,Investasi,120,82,2,845368421.2,KPR_Konfensional,Kedaton Terrace
+78,46,Smg Utara,Investasi,120,73,2,766918421,KPR_Konfensional,Kedaton Terrace
+79,52,Smg Timur,Investasi,140,82,2,927633139,KPR_Konfensional,Kedaton Terrace
+80,34,Smg Timur,Investasi,120,73,2,782256789,Cash Bertahap,Kedaton Terrace
+81,43,Jkt,Tinggal,120,47,1,684536890,KPR_Konfensional,Kedaton Terrace
+82,57,Smg Timur,Investasi,120,82,2,850000000,KPR_Konfensional,Kedaton Terrace
+83,30,Smg Barat,Investasi,120,73,2,766900000,Cash Bertahap,Kedaton Terrace
+84,32,Smg Barat,Tinggal,140,73,2,851110584,KPR_Konfensional,Kedaton Terrace
+85,27,Jkt,Tinggal,120,73,2,770000000,Cash Bertahap,Kedaton Terrace
+86,55,Smg Barat,Investasi,120,47,1,684536890,Cash Bertahap,Kedaton Terrace
+87,41,Jkt,Investasi,140,96,2,1139000000,Cash Bertahap,Kedaton Terrace
+88,41,Jkt,Investasi,262,200,2,2813076923,Cash Bertahap,Kedaton Terrace
+89,46,Kendal,Investasi,120,73,2,746900000,KPR_Konfensional,Kedaton Terrace
+90,45,Smg Timur,Investasi,120,47,1,650000000,Cash Keras,Kedaton Terrace
+91,32,Smg Barat,Tinggal,120,82,2,862275789,KPR_Konfensional,Kedaton Terrace
+92,38,Smg Timur,Tinggal,150,73,2,856000000,KPR_Konfensional,Kedaton Terrace
+93,48,Smg Selatan,Tinggal,120,70,2,785802462,KPR_Konfensional,Kedaton Terrace
+94,55,Jkt,Investasi,308,0,1,694974358.9,Cash Bertahap,Kedaton Terrace
+95,56,Smg Barat,Investasi,200,0,1,451282051,Cash Bertahap,Kedaton Terrace
+96,40,Smg Barat,Investasi,150,0,1,345769231,Cash Bertahap,Kedaton Terrace
+97,52,Smg Tengah,Investasi,155,0,1,349743590,Cash Bertahap,Kedaton Terrace
+98,37,Purwodadi,Investasi,120,85,2,885687077,KPR_Konfensional,Kedaton Terrace
+99,57,Smg Barat,Investasi,120,47,1,671313091,Cash Keras,Kedaton Terrace
+100,30,Kudus,Tinggal,120,73,2,795449846,KPR_Konfensional,Kedaton Terrace
+101,44,Smg Selatan,Tinggal,120,70,2,785802462,KPR_Konfensional,Kedaton Terrace
+102,37,Smg Tengah,Tinggal,120,96,2,970719077,KPR_Konfensional,Kedaton Terrace
+103,50,Jkt,Investasi,172,85,2,1168000000,KPR_Konfensional,Kedaton Terrace
+104,38,Bengkulu,Tinggal,120,85,2,885687077,KPR_Konfensional,Kedaton Terrace
+105,80,Smg Selatan,Investasi,120,96,2,1055000000,Cash Bertahap,Kedaton Terrace
+106,31,Luar Negeri,Tinggal,120,47,1,695000000,KPR_Konfensional,Kedaton Terrace
+107,36,Smg Barat,Investasi,120,47,1,674150000,Cash Keras,Kedaton Terrace
+108,47,Smg Selatan,Investasi,120,73,2,799000000,KPR_Konfensional,Kedaton Terrace
+109,42,Smg Barat,Investasi,120,85,2,881100000,KPR_Konfensional,Kedaton Terrace
+110,20,Smg Timur,Tinggal,120,47,1,674150000,Cash Bertahap,Kedaton Terrace
+111,25,Temanggung,Investasi,120,96,2,980000000,Cash Bertahap,Kedaton Terrace
+112,48,Smg Barat,Tinggal,120,84,2,854570000,KPR_Konfensional,Kedaton Terrace
+113,30,Smg Timur,Tinggal,120,73,2,799000000,KPR_Konfensional,Kedaton Terrace
+114,50,Smg Barat,Investasi,120,47,1,660667000.2,Cash Keras,Kedaton Terrace
+115,26,Smg Barat,Tinggal,120,70,2,790000000.2,KPR_Konfensional,Kedaton Terrace
+116,54,Kendal,Tinggal,120,70,2,817000000.4,KPR_Konfensional,Kedaton Terrace
+117,60,Smg Selatan,Investasi,120,70,2,817000000.4,KPR_Konfensional,Kedaton Terrace
+118,29,Smg Barat,Tinggal,120,47,1,698000000.5,KPR_Konfensional,Kedaton Terrace
+119,29,Smg Utara,Tinggal,120,70,2,817000000.4,KPR_Konfensional,Kedaton Terrace
+120,25,Smg Barat,Tinggal,120,85,2,917000000,Cash Bertahap,Kedaton Terrace
+121,45,Kendal,Tinggal,120,85,2,917000000,KPR_Konfensional,Kedaton Terrace
+122,56,Luar Negeri,Tinggal,230,0,1,917846154,Cash Bertahap,Kedaton Terrace
+123,27,Smg Barat,Tinggal,230,140,2,1750000000,KPR_Konfensional,Kedaton Terrace
+124,36,Smg Barat,Tinggal,120,70,2,827000000,KPR_Konfensional,Kedaton Terrace
+125,27,Smg Tengah,Investasi,120,70,2,827000000,Cash Bertahap,Kedaton Terrace
+126,28,Smg Utara,Tinggal,120,70,2,827000000,KPR_Konfensional,Kedaton Terrace
+127,48,Gresik,Investasi,120,85,2,939095000,Cash Keras,Kedaton Terrace
+128,23,Smg Barat,Tinggal,120,70,2,827000000,KPR_Konfensional,Kedaton Terrace
+129,27,Smg Tengah,Investasi,120,85,2,927000000,Cash Bertahap,Kedaton Terrace
+130,39,Jkt,Tinggal,120,70,2,806300000,KPR_Konfensional,Kedaton Terrace
+131,31,Smg Barat,Tinggal,120,70,2,827000000,KPR_Konfensional,Kedaton Terrace
+132,39,Kalimantan,Tinggal,120,85,2,930000000,Cash Keras,Kedaton Terrace
+133,25,Kalimantan,Tinggal,120,85,2,930000000,Cash Keras,Kedaton Terrace
+134,48,Jkt,Tinggal,120,70,2,835000000,Cash Bertahap,Kedaton Terrace
+135,23,Smg Tengah,Tinggal,120,85,2,950000000,Cash Bertahap,Kedaton Terrace
+136,55,Jkt,Investasi,120,85,2,921500000,Cash Keras,Kedaton Terrace
+137,30,Smg Barat,Tinggal,120,85,2,950000000,KPR_Konfensional,Kedaton Terrace
+138,25,Kendal,Tinggal,120,96,2,1025000000,KPR_Konfensional,Kedaton Terrace
+139,31,Smg Tengah,Tinggal,120,70,2,860000000,KPR_Konfensional,Kedaton Terrace
+140,38,Smg Barat,Tinggal,120,70,2,860000000,Cash Bertahap,Kedaton Terrace
+141,34,Smg Barat,Investasi,172,85,2,1168000000,KPR_Konfensional,Kedaton Terrace
+142,38,Smg Selatan,Investasi,120,96,2,1025000000,KPR_Konfensional,Kedaton Terrace
+143,40,Smg Selatan,Tinggal,120,96,2,997000000,KPR_Konfensional,Kedaton Terrace
+144,37,Smg Barat,Investasi,120,70,2,860000000,Cash Bertahap,Kedaton Terrace
+145,28,Smg Barat,Investasi,120,70,2,860000000,KPR_Konfensional,Kedaton Terrace
+146,51,Jkt,Investasi,423,0,1,1057499998,Cash Bertahap,Kedaton Terrace
+147,32,Smg Barat,Tinggal,120,70,2,850000000,KPR_Konfensional,Kedaton Terrace
+148,36,Luar Negeri,Investasi,150,96,2,1127140000,Cash Keras,Kedaton Terrace
+149,31,Jkt,Tinggal,120,47,1,660000000,Cash Keras,Kedaton Terrace
+150,53,Smg Tengah,Investasi,150,85,2,1096000000,KPR_Konfensional,Kedaton Terrace
+151,46,Yogyakarta,Tinggal,120,70,2,813400000,KPR_Konfensional,Kedaton Terrace
+152,31,Smg Utara,Tinggal,120,70,2,860000000,Cash Bertahap,Kedaton Terrace
+153,27,Smg Selatan,Tinggal,120,47,1,683000000,KPR_Konfensional,Kedaton Terrace
+154,36,Jkt,Tinggal,120,96,2,1059000000,KPR_Konfensional,Kedaton Terrace
+155,34,Smg Utara,Investasi,120,70,2,860000000,KPR_Konfensional,Kedaton Terrace
+156,27,Smg Barat,Tinggal,197,130,2,1672000000,Cash Bertahap,Kedaton Terrace
+157,59,Smg Barat,Tinggal,120,96,2,1060000000,Cash Bertahap,Kedaton Terrace
+158,28,Smg Selatan,Tinggal,120,70,2,906000000,KPR_Konfensional,Kedaton Terrace
+159,43,Batam,Tinggal,205,130,2,1821000000,KPR_Konfensional,Kedaton Terrace
+160,34,Smg Barat,Tinggal,148,85,2,1128000000,Cash Keras,Kedaton Terrace
+161,19,Smg Barat,Tinggal,120,70,2,878820000,KPR_Konfensional,Kedaton Terrace
+162,53,Smg Barat,Investasi,120,70,2,891000000,KPR_Konfensional,Kedaton Terrace
+163,44,Smg Selatan,Investasi,120,96,2,1133735000,Cash Bertahap,Kedaton Terrace
+164,57,Smg Barat,Tinggal,240,190,2,2840000000,Cash Keras,Kedaton Terrace
+165,25,Smg Barat,Tinggal,157,85,2,1240000000,KPR_Konfensional,Kedaton Terrace
+166,37,Smg Barat,Investasi,151,70,2,1050000000,Cash Bertahap,Kedaton Terrace
+167,36,Smg Barat,Tinggal,120,96,2,1166000000,KPR_Konfensional,Kedaton Terrace
+168,57,Smg Barat,Investasi,360,280,2,4300000000,Cash Bertahap,Kedaton Terrace
+169,24,Smg Utara,Tinggal,120,70,2,909860000,KPR_Konfensional,Kedaton Terrace
+170,44,Smg Utara,Tinggal,120,85,2,1073000000,KPR_Konfensional,Kedaton Terrace
+171,32,Tegal,Investasi,120,85,2,1073000000,KPR_Konfensional,Kedaton Terrace
+172,34,Kendal,Investasi,120,96,2,1210000000,KPR_Konfensional,Kedaton Terrace
+173,51,Tegal,Investasi,240,190,2,2840000000,Cash Keras,Kedaton Terrace
+174,35,Smg Selatan,Tinggal,120,96,2,1144600000,KPR_Konfensional,Kedaton Terrace
+175,36,Yogyakarta,Tinggal,180,130,2,1705000000,Cash Keras,Kedaton Terrace
+176,46,Kendal,Investasi,120,96,2,1210000000,KPR_Konfensional,Kedaton Terrace
+177,40,Kendal,Investasi,120,85,2,1088000000,KPR_Konfensional,Kedaton Terrace
+178,46,,Tinggal,120,96,2,1255000000,KPR_Konfensional,Kedaton Terrace
+179,56,Smg Barat,Investasi,158,0,1,395000000,Cash Bertahap,Kedaton Terrace
+180,44,Smg Barat,Investasi,120,96,2,1210000000,KPR_Konfensional,Kedaton Terrace
+181,57,Jkt,Tinggal,191,130,2,1822000000,Cash Bertahap,Kedaton Terrace
+182,69,Jkt,Investasi,120,85,2,1047600000,KPR_Konfensional,Kedaton Terrace
+183,31,Smg Selatan,Tinggal,150,85,2,1250000000,Cash Bertahap,Kedaton Terrace
+184,41,Semarang,None,120,85,2,1088000000,KPR_Konfensional,Kedaton Terrace
+185,40,,None,120,96,2,1225000000,KPR_Konfensional,Kedaton Terrace
+186,49,Kendal,Investasi,207,130,2,1957460000,KPR_Konfensional,Kedaton Terrace
+187,64,Smg Utara,Investasi,120,96,2,1200000000,KPR_Konfensional,Kedaton Terrace
+188,30,Smg Tengah,Tinggal,120,70,2,989000000,KPR_Konfensional,Kedaton Terrace
+189,36,Smg Tengah,Tinggal,120,85,2,1132000000,KPR_Konfensional,Kedaton Terrace
+190,38,Smg Barat,Tinggal,120,96,2,1210000000,KPR_Konfensional,Kedaton Terrace
+191,54,Smg Barat,Investasi,384,250,2,4500000000,Cash Keras,Kedaton Terrace
+192,32,Smg Timur,None,120,85,2,1150000000,KPR_Konfensional,Kedaton Terrace
+193,69,Smg Tengah,Tinggal,120,96,2,1227704615,Cash Bertahap,Kedaton Terrace
+194,36,Smg Barat,Tinggal,200,160,2,2600000000,Cash Bertahap,Kedaton Terrace
+195,45,Smg Selatan,Tinggal,180,130,2,1831000000,KPR_Konfensional,Kedaton Terrace
+196,35,Kendal,Investasi,148,85,2,1289000000,KPR_Konfensional,Kedaton Terrace
+197,57,Smg Tengah,Tinggal,140,85,2,1257000000,KPR_Konfensional,Kedaton Terrace
+198,34,Smg Selatan,Investasi,180,137,2,2025000000,KPR_Konfensional,Kedaton Terrace
+199,41,Semarang,Tinggal,120,96,2,1249000000,Cash Bertahap,Kedaton Terrace
+200,51,Smg Selatan,Tinggal,120,85,2,1183000000,KPR_Konfensional,Kedaton Terrace
+201,26,Karanganyar,Tinggal,120,96,2,1300000000,KPR_Konfensional,Kedaton Terrace
+202,41,Smg Barat,Investasi,120,85,2,1266000000,KPR_Konfensional,Kedaton Terrace
+203,39,Semarang,Investasi,120,85,2,1266000000,KPR_Konfensional,Kedaton Terrace
+204,49,Tangerang,Investasi,120,96,2,1299970000,Cash Bertahap,Kedaton Terrace
+205,51,Smg Barat,Investasi,120,85,2,1228950000,Cash Bertahap,Kedaton Terrace
+206,25,Smg Barat,Tinggal,180,130,2,1934000000,Cash Bertahap,Kedaton Terrace
+207,51,Smg Barat,Tinggal,150,85,2,1456815000,KPR_Konfensional,Kedaton Terrace
+208,41,Semarang,Tinggal,216,139,2,2150000000,Cash Bertahap,Kedaton Terrace
+209,40,Smg Barat,Tinggal,120,85,2,1288000000,Cash Bertahap,Kedaton Terrace
+210,46,Semarang,Tinggal,150,85,2,1416000000,Cash Bertahap,Kedaton Terrace
+211,36,Semarang,Tinggal,120,96,2,1357000000,KPR_Konfensional,Kedaton Terrace
+212,38,Smg Barat,Tinggal,180,130,2,1930000000,KPR_Syariah,Kedaton Terrace
+213,,Smg Barat,Tinggal,120,96,2,1289000000,Cash Bertahap,Kedaton Terrace
+214,,Smg Barat,Tinggal,120,96,2,1289000000,Cash Bertahap,Kedaton Terrace
+215,,Smg Barat,Tinggal,120,96,2,1289000000,Cash Bertahap,Kedaton Terrace
+216,48,Smg Utara,Tinggal,120,85,2,1218000000,Cash Keras,Kedaton Terrace
+217,,Smg Barat,Tinggal,216,130,2,2100000000,Cash Bertahap,Kedaton Terrace
+218,33,,Tinggal,120,70,2,1161270000,KPR_Konfensional,Kedaton Terrace
+219,36,Smg Utara,Tinggal,120,70,2,1160000000,KPR_Konfensional,Kedaton Terrace
+220,53,Pati,Tinggal,155,96,2,1582020000,Cash Bertahap,Kedaton Terrace
+221,39,Smg Barat,None,360,280,2,4458000000,Cash Bertahap,Kedaton Terrace
+222,50,,Investasi,360,250,2,3838000000,Cash Bertahap,Kedaton Terrace
+223,50,Smg Barat,Investasi,265,0,1,1235081015,Cash Keras,Kedaton Terrace
+224,50,Smg Barat,Investasi,265,0,1,1235081015,Cash Keras,Kedaton Terrace
+225,45,Jkt,Investasi,180,105,2,1649125000,Cash Bertahap,Kedaton Terrace
+226,43,Kendal,Tinggal,215,139,2,2293000000,Cash Bertahap,Kedaton Terrace
+227,34,Kendal,Investasi,165,66,1,999000000,Cash Bertahap,Kedaton Park
+228,57,Smg Barat,Tinggal,120,45,1,686000000,KPR_Konfensional,Kedaton Park
+229,31,Smg Barat,Tinggal,120,45,1,686000000,KPR_Konfensional,Kedaton Park
+230,57,Smg Barat,Tinggal,120,45,1,686000000,Cash Bertahap,Kedaton Park
+231,28,Smg Barat,Tinggal,165,66,1,999000000,KPR_Konfensional,Kedaton Park
+232,34,Demak,Investasi,165,66,1,999000000,KPR_Konfensional,Kedaton Park
+233,37,Kendal,Tinggal,120,45,1,672000000,KPR_Konfensional,Kedaton Park
+234,29,Smg Selatan,Investasi,120,45,1,678000000,KPR_Konfensional,Kedaton Park
+235,38,Smg Selatan,Investasi,165,66,1,984000000,KPR_Konfensional,Kedaton Park
+236,42,Smg Selatan,Tinggal,120,45,1,730000000,KPR_Konfensional,Kedaton Park
+237,42,Smg Selatan,Tinggal,120,45,1,686000000,KPR_Konfensional,Kedaton Park
+238,38,Jkt,Investasi,120,45,1,686000000,Cash Bertahap,Kedaton Park
+239,30,Smg Timur,Tinggal,120,45,1,686000000,KPR_Konfensional,Kedaton Park
+240,36,Smg Barat,Investasi,120,45,1,663000000,Cash Bertahap,Kedaton Park
+241,31,Smg Barat,Investasi,120,45,1,663000000,Cash Bertahap,Kedaton Park
+242,37,Smg Barat,Investasi,120,45,1,688000000,KPR_Konfensional,Kedaton Park
+243,32,Smg Selatan,Tinggal,135,45,1,716000000,Cash Keras,Kedaton Park
+244,29,Smg Selatan,Investasi,142,45,1,774000000,KPR_Konfensional,Kedaton Park
+245,41,Smg Tengah,Tinggal,120,45,1,663000000,Cash Bertahap,Kedaton Park
+246,30,Smg Tengah,Tinggal,120,45,1,686000000,KPR_Konfensional,Kedaton Park
+247,39,Smg Barat,Tinggal,120,45,1,692000000,KPR_Konfensional,Kedaton Park
+248,37,Solo,Tinggal,120,68,1,845000000,Cash Bertahap,Kedaton Park
+249,46,Jkt,Tinggal,120,96,2,999000000,KPR_Konfensional,Kedaton Park
+250,57,Bandung,Investasi,120,96,2,1059000000,Cash Keras,Kedaton Park
+251,38,Smg Barat,Tinggal,120,68,1,839000000,KPR_Konfensional,Kedaton Park
+252,51,Smg Selatan,Tinggal,120,68,1,799000000,Cash Keras,Kedaton Park
+253,42,Jkt,Tinggal,120,68,1,830000000,KPR_Konfensional,Kedaton Park
+254,30,Smg Barat,Investasi,120,96,2,1059000000,KPR_Konfensional,Kedaton Park
+255,32,Smg Tengah,Tinggal,165,66,1,974000000,Cash Keras,Kedaton Park
+256,36,Smg Tengah,Investasi,120,45,1,674000000,KPR_Konfensional,Kedaton Park
+257,34,Smg Barat,Investasi,120,45,1,686000000,KPR_Konfensional,Kedaton Park
+258,44,Smg Selatan,Investasi,120,45,1,668000000,Cash Keras,Kedaton Park
+259,76,Salatiga,Investasi,120,96,2,1163000000,Cash Keras,Kedaton Park
+260,45,Serang,Tinggal,120,45,1,670000000,Cash Bertahap,Kedaton Park
+261,51,Smg Utara,Investasi,120,45,1,693000000,KPR_Konfensional,Kedaton Park
+262,47,Smg Barat,Investasi,120,45,1,693000000,KPR_Konfensional,Kedaton Park
+263,45,Kalimantan,Investasi,120,68,1,845000000,Cash Bertahap,Kedaton Park
+264,41,Bogor,Tinggal,120,45,1,694000000,KPR_Konfensional,Kedaton Park
+265,24,Smg Barat,Tinggal,142,45,1,804000000,KPR_Konfensional,Kedaton Park
+266,41,Smg Tengah,Tinggal,120,45,1,694000000,KPR_Konfensional,Kedaton Park
+267,24,Kudus,Tinggal,120,45,1,694520000,KPR_Konfensional,Kedaton Park
+268,37,Pati,Investasi,120,45,1,694000000,KPR_Konfensional,Kedaton Park
+269,50,Kudus,Tinggal,120,45,1,745470000,Cash Bertahap,Kedaton Park
+270,29,Jkt,Investasi,165,68,1,1174000000,Cash Bertahap,Kedaton Park
+271,59,Pati,Tinggal,120,68,1,913000000,Cash Bertahap,Kedaton Park
+272,26,Smg Utara,Tinggal,120,45,1,753000000,KPR_Konfensional,Kedaton Park
+273,32,Tegal,Investasi,120,68,1,920000000,KPR_Konfensional,Kedaton Park
+274,,,Tinggal,120,45,1,760000000,KPR_Konfensional,Kedaton Park
+275,32,Smg Utara,Investasi,120,45,1,753000000,KPR_Konfensional,Kedaton Park
+276,,Smg Selatan,None,120,68,1,939000000,KPR_Konfensional,Kedaton Park
+277,50,Smg Tengah,None,120,45,1,761000000,KPR_Konfensional,Kedaton Park
+278,50,Smg Barat,None,120,45,1,734000000,Cash Keras,Kedaton Park
+279,25,Smg Tengah,Tinggal,120,45,1,764689744,KPR_Konfensional,Kedaton Park
+280,25,Pelajar/mahasiswa,None,120,68,1,919757436,KPR_Konfensional,Kedaton Park
+281,41,Smg Barat,Investasi,120,45,1,757282051,KPR_Konfensional,Kedaton Park
+282,40,Smg Selatan,Investasi,120,68,1,900000000,KPR_Konfensional,Kedaton Park
+283,32,,None,120,70,2,957000000,KPR_Konfensional,Kedaton Park
+284,31,Smg Timur,Tinggal,120,68,1,929000000,KPR_Konfensional,Kedaton Park
+285,33,Smg Selatan,Tinggal,120,85,2,1178000000,KPR_Konfensional,Kedaton Park
+286,43,Smg Barat,Investasi,120,70,2,935000000,KPR_Konfensional,Kedaton Park
+287,43,Smg Barat,Investasi,120,85,2,1131000000,KPR_Konfensional,Kedaton Park
+288,,,None,120,45,1,757000000,KPR_Konfensional,Kedaton Park
+289,51,Smg Selatan,Investasi,120,96,2,1219000000,Cash Bertahap,Kedaton Park
+290,50,Smg Barat,Investasi,120,96,2,1219000000,Cash Bertahap,Kedaton Park
+291,31,Smg Barat,Tinggal,120,45,1,760000000,KPR_Konfensional,Kedaton Park
+292,30,Smg Barat,None,120,45,1,746000000,KPR_Konfensional,Kedaton Park
+293,33,Smg Utara,Tinggal,165,96,2,1452750000,Cash Bertahap,Kedaton Park
+294,24,Tangerang Selatan,Investasi,216,0,1,648000000,Cash Bertahap,Kedaton Park
+295,51,Smg Barat,Investasi,209,160,2,2510000000,Cash Bertahap,Kedaton Park
+296,26,Surabaya,None,120,45,1,754660000,KPR_Konfensional,Kedaton Park
+297,28,Smg Utara,None,120,45,1,778000000,KPR_Konfensional,Kedaton Park
+298,53,Smg Utara,Tinggal,120,45,1,763000000,Cash Bertahap,Kedaton Park
+299,28,Smg Barat,Tinggal,120,96,2,1203000000,KPR_Konfensional,Kedaton Park
+300,28,Smg Barat,None,120,45,1,763000000,KPR_Konfensional,Kedaton Park
+301,32,Smg Barat,Tinggal,120,45,1,774500000,KPR_Konfensional,Kedaton Park
+302,35,Smg Selatan,None,120,85,2,1124214000,KPR_Konfensional,Kedaton Park
+303,42,Smg Utara,Tinggal,165,66,1,1106000000,Cash Bertahap,Kedaton Park
+304,31,Jepara,Tinggal,150,96,2,1359000000,KPR_Konfensional,Kedaton Park
+305,32,Smg Utara,Tinggal,165,85,2,1462000000,Cash Bertahap,Kedaton Park
+306,42,Smg Selatan,Investasi,120,68,1,950000000,KPR_Konfensional,Kedaton Park
+307,39,Smg Selatan,Investasi,179,96,2,1609230000,Cash Bertahap,Kedaton Park
+308,36,Smg Selatan,Investasi,165,85,2,1318499677,KPR_Konfensional,Kedaton Park
+309,48,Surabaya,Investasi,179,70,2,1233840000,KPR_Konfensional,Kedaton Park
+310,41,Smg Barat,Investasi,165,85,2,1319000000,Cash Bertahap,Kedaton Park
+311,36,Sidoarjo,Tinggal,120,68,1,936050000,Cash Bertahap,Kedaton Park
+312,53,Kota Semarang ,Investasi,165,70,2,1258000000,Cash Bertahap,Kedaton Park
+313,34,Kota Semarang ,Investasi,120,45,1,792000000,KPR_Konfensional,Kedaton Park
+314,31,Kota Semarang ,Tinggal,120,45,1,797000000,KPR_Konfensional,Kedaton Park
+315,31,Kota Semarang ,Tinggal,120,70,2,1051560000,KPR_Konfensional,Kedaton Park
+316,30,Smg Barat,Tinggal,120,70,2,1050000000,KPR_Konfensional,Kedaton Park
+317,81,,Tinggal,120,96,2,1298000000,Cash Bertahap,Kedaton Park
+318,28,Smg Barat,None,120,45,1,839000000,KPR_Konfensional,Kedaton Park
+319,45,,Tinggal,120,96,2,1298000000,KPR_Syariah,Kedaton Park
+320,63,Jkt,Tinggal,150,96,2,1537041000,Cash Bertahap,Kedaton Park
+321,31,Smg Barat,None,120,70,2,1085000000,KPR_Konfensional,Kedaton Park
+322,54,Luar Negeri,None,120,96,2,1322110000,Cash Bertahap,Kedaton Park
+323,35,Smg Barat,Tinggal,165,69,2,1287000000,KPR_Konfensional,Kedaton Park
+324,36,,None,120,70,2,1138000000,KPR_Konfensional,Kedaton Park
+325,34,Smg Barat,Tinggal,120,85,2,1240000000,KPR_Konfensional,Kedaton Park
+326,36,,None,120,85,2,1222230000,KPR_Konfensional,Kedaton Park
+327,38,,None,120,96,2,1335740000,Cash Bertahap,Kedaton Park
+328,35,,None,165,68,1,1287000000,KPR_Konfensional,Kedaton Park
+329,55,Smg Barat,Tinggal,120,45,1,880000000,KPR_Konfensional,Kedaton Park
+330,29,,None,120,70,2,1081100000,KPR_Konfensional,Kedaton Park
+331,26,,Tinggal,120,96,2,1350000000,KPR_Konfensional,Kedaton Park
+332,54,,None,143,68,1,1200000000,Cash Bertahap,Kedaton Park
+333,28,,Tinggal,120,96,2,1266000000,KPR_Konfensional,Kedaton Park
+334,27,,Tinggal,120,85,2,1192000000,KPR_Konfensional,Kedaton Park
+335,49,,Tinggal,120,85,2,1192000000,KPR_Konfensional,Kedaton Park
+336,38,,None,204,139,2,2075000000,Cash Keras,Kedaton Park
+337,48,,Investasi,120,70,2,1095350000,Cash Keras,Kedaton Park
+338,27,,Tinggal,120,96,2,1322000000,Cash Bertahap,Kedaton Park
+339,25,,Investasi,271,0,1,1514000000,Cash Bertahap,Kedaton Park
+340,30,,Investasi,271,0,1,1514000000,Cash Bertahap,Kedaton Park
+341,30,,None,120,96,2,1338000000,KPR_Konfensional,Kedaton Park
+342,43,,Tinggal,120,96,2,1335324000,KPR_Konfensional,Kedaton Park
+343,33,,Tinggal,120,70,2,1142590000,KPR_Syariah,Kedaton Park
+344,32,,Investasi,120,70,2,945000000,KPR_Konfensional,Kedaton Park
+345,20,,Tinggal,120,70,2,1112960000,Cash Keras,Kedaton Park
+346,35,Smg Barat,Tinggal,150,120,2,1698000000,Cash Bertahap,Kedaton Park
+347,37,,Tinggal,120,96,2,1330000000,KPR_Konfensional,Kedaton Park
+348,21,Smg Barat,Tinggal,120,85,2,1173000000,Cash Bertahap,Kedaton Park
+349,43,Jayapura,Investasi,120,96,2,1350000000,Cash Bertahap,Kedaton Park
+350,82,,Investasi,180,140,2,2150000000,Cash Bertahap,Kedaton Park
+351,38,Bekasi,Investasi,171,96,2,1700000000,Cash Bertahap,Kedaton Park
+352,30,Pekalongan,Investasi,120,96,2,1366200000,KPR_Konfensional,Kedaton Park
+353,44,Smg Barat,Tinggal,120,70,2,1219520000,KPR_Syariah,Kedaton Park
+354,53,Solo,Investasi,120,85,2,1233000000,Cash Bertahap,Kedaton Park
+355,37,,Investasi,120,70,2,1111000000,Cash Bertahap,Kedaton Park
+356,28,Pontianak,Investasi,120,70,2,981538461.5,Cash Keras,Kedaton Park
+357,37,Bogor,Investasi,120,70,2,1130000000,Cash Keras,Kedaton Park
+358,53,,Tinggal,120,85,2,1366700000,KPR_Syariah,Kedaton Park
+359,34,Smg Barat,Tinggal,120,70,2,1134000000,KPR_Syariah,Kedaton Park
+360,36,Smg Utara,Tinggal,120,85,2,1386000000,KPR_Syariah,Kedaton Park
+361,20,Smg Barat,Tinggal,165,96,2,1600000000,Cash Keras,Kedaton Park
+362,56,Smg Barat,None,120,85,2,1250000000,Cash Keras,Kedaton Park
+363,39,Smg Utara,None,120,85,2,1250000000,KPR_Syariah,Kedaton Park
+364,29,,Investasi,400,479,3,5864911538,Cash Bertahap,Kedaton Pavilliun
+365,42,,Investasi,220,261,3,2970507115,KPR_Konfensional,Kedaton Pavilliun
+366,42,,Investasi,220,261,3,2970507115,KPR_Konfensional,Kedaton Pavilliun
+367,53,Mimika,Investasi,220,261,3,2970507115,Cash Bertahap,Kedaton Pavilliun
+368,52,Mimika,Investasi,220,261,3,3095000000,Cash Bertahap,Kedaton Pavilliun
+369,21,Smg barat,Investasi,220,261,3,3500000000,Cash Bertahap,Kedaton Pavilliun
+370,31,Smg Selatan,Investasi,220,261,3,3500000000,Cash Bertahap,Kedaton Pavilliun
+371,56,Smg barat,Investasi,220,240,3,3664000000,Cash Bertahap,Kedaton Pavilliun
+372,56,Smg barat,Investasi,220,240,3,3667000000,Cash Bertahap,Kedaton Pavilliun
+373,35,Depok,Investasi,220,261,3,3816640000,KPR_Konfensional,Kedaton Pavilliun
+374,50,Smg Barat,Investasi,472,261,3,2129346152,Cash Bertahap,Kedaton Pavilliun
+375,52,,Investasi,320,336,3,4910400000,Cash Bertahap,Kedaton Pavilliun
+376,52,,Investasi,220,261,3,3538800000,Cash Bertahap,Kedaton Pavilliun
