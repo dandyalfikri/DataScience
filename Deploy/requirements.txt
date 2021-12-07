@@ -1,0 +1,6 @@
+streamlit
+sklearn
+pandas
+tensorflow-cpu
+numpy
+plotly.express
